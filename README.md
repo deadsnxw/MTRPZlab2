@@ -33,5 +33,3 @@ Open your CMD and enter commands
 cd "path to project"
 gradlew.bat test
 ```
-
-This is a revert commit

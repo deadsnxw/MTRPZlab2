@@ -15,9 +15,10 @@ next you need to search for "Edit the system environment variables" > go to the 
 Done ! All installed.
 
 ### Build and run
-Download Main.kt file from converter/src
+Download project
 Open CMD
 ```
+  cd "path to Main.kt file"
   kotlinc Main.kt -include-runtime -d Main.jar
   java -jar Main.jar
 ```
@@ -27,9 +28,8 @@ After the first command you will get a .jar file and the second command will run
 Enter path to your .md file and program will convert .md file into .html file in same directory
 
 ### Tests
-Open your cmd and enter command
+Open your CMD and enter commands
 ```
+cd "path to project"
 gradlew.bat test
 ```
-
-This is a revert commit

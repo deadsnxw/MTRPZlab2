@@ -36,4 +36,4 @@ gradlew.bat test
 ```
 =======
 ```
->>>>>>> parent of be8dcd6 (updated README for revert commit)
+>>>>>>> parent of be8dcd6 (updated README for revert commit) -- this is a revert commit

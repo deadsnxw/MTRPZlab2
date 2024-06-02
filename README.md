@@ -37,3 +37,6 @@ gradlew.bat test
 =======
 ```
 >>>>>>> parent of be8dcd6 (updated README for revert commit) -- this is a revert commit
+```
+### Conclusion
+In my opinion, tests are very useful but not in the small programs like this. I almost dont have any experience in tests so i cant tell something more, but it was interesting.

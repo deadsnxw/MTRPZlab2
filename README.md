@@ -26,4 +26,10 @@ After the first command you will get a .jar file and the second command will run
 ### Usage
 Enter path to your .md file and program will convert .md file into .html file in same directory
 
+### Tests
+Open your cmd and enter command
+```
+gradlew.bat test
+```
+
 This is a revert commit

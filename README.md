@@ -32,4 +32,8 @@ Open your CMD and enter commands
 ```
 cd "path to project"
 gradlew.bat test
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> parent of be8dcd6 (updated README for revert commit)
